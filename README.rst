@@ -1,5 +1,11 @@
+.. _Генерация дистрибутива: agents/windows/README.rst
 
 Windows Agent
 =============
 
-.. include:: ./agents/windows/README.rst
+`Генерация дистрибутива`_
+
+
+
+
+
