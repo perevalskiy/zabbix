@@ -1,4 +1,4 @@
-.. _Генерация дистрибутива: agents/windows/README.rst
+.. _Генерация дистрибутива: agents/windows/README.RST
 
 Windows Agent
 =============
